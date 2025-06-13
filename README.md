@@ -13,7 +13,10 @@ identify the most accurate models for predicting future prices. The findings hav
 prospective homebuyers, real estate agents, and property investors, enabling them to make informed
 decisions in the dynamic Australian housing market.
 
-
+<p align="center">
+  <img src="housing_prices.png" alt="Rising Housing Prices" title="Increase in Housing Prices" style="text-align:center" width="400px">
+  <br>
+</p>
 
 ## Dataset Source
 > The repo has the file in the Data folder. Alternatively, the data can be downloaded from the source below:
