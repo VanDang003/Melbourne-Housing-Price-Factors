@@ -27,7 +27,7 @@ Melbourne Housing Prices; Source:[here](https://www.kaggle.com/datasets/anthonyp
 
 ### Reports
 * [Report](<Analysis of Factors that Affect Housing Prices in Melbourne Report.pdf>)
-* [Slides](<Analysis of Factors that Affect Housing Prices in Melbourne Slides.ppt>)
+* [Slides](<Analysis of Factors that Affect Housing Prices in Melbourne Slides.pptx>)
 
 ### Python Code Walkthrough
 * [EDA](<melbournehousing_EDA.ipynb>) | Extensive data cleaning, imputation, and variable interactions 
