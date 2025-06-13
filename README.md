@@ -15,6 +15,7 @@ decisions in the dynamic Australian housing market.
 
 <p align="center">
   <img src="housing_prices.png" alt="Rising Housing Prices" title="Increase in Housing Prices" style="text-align:center" width="400px">
+  <br>
 </p>
 
 ## Dataset Source
@@ -29,10 +30,10 @@ Melbourne Housing Prices; Source:[here](https://www.kaggle.com/datasets/anthonyp
 * [Slides](<Analysis of Factors that Affect Housing Prices in Melbourne Slides.ppt>)
 
 ### Python Code Walkthrough
-* [EDA](<melbournehousing_EDA.ipynb>) | Extensive data cleaning and variable interactions 
+* [EDA](<melbournehousing_EDA.ipynb>) | Extensive data cleaning, imputation, and variable interactions 
   * Data cleaning is performed here to create a cleaned dataset used for the majority of the analysis
-* [Regression and Tree Models] (<melbournehousing_regression_and_trees.ipynb>)
-* [Regularization Models] (<Melbourne_regularization.ipynb>)
+* [Regression and Tree Models](<melbournehousing_regression_and_trees.ipynb>)
+* [Regularization Models](<Melbourne_regularization.ipynb>)
 
 
 
