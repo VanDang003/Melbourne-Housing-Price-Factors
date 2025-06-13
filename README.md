@@ -15,7 +15,6 @@ decisions in the dynamic Australian housing market.
 
 <p align="center">
   <img src="housing_prices.png" alt="Rising Housing Prices" title="Increase in Housing Prices" style="text-align:center" width="400px">
-  <br>
 </p>
 
 ## Dataset Source
